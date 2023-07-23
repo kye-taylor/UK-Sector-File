@@ -8,7 +8,9 @@ COPX:*:*:DIGUT:EGVO:*:London TC NW:London TC SW:*:11000:DIGUT
 COPX:*:*:DIGUT:EGHL:*:London TC NW:London TC SW:*:11000:DIGUT
 COPX:*:*:DIGUT:EGTD:*:London TC NW:London TC SW:*:11000:DIGUT
 
-COPX:*:*:CPT:EGLF:*:London TC NW:London TC SW:*:11000:CPT
+COPX:*:*:CPT:EGLF:*:London TC NW:London TC SW:*:11000:CPT10
+COPX:*:GOBNU:*:EGLF:*:London TC NW:London TC SW:*:11000:CPT10
+
 COPX:*:*:CPT:EGLK:*:London TC NW:London TC SW:*:11000:CPT
 COPX:*:*:CPT:EGTF:*:London TC NW:London TC SW:*:11000:CPT
 COPX:*:*:CPT:EGVO:*:London TC NW:London TC SW:*:11000:CPT
